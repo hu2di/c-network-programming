@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPServer1", "TCPServer1.vcxproj", "{298A55A7-E697-43A1-AB06-144507F9C708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298A55A7-E697-43A1-AB06-144507F9C708}.Debug|Win32.ActiveCfg = Debug|Win32
+		{298A55A7-E697-43A1-AB06-144507F9C708}.Debug|Win32.Build.0 = Debug|Win32
+		{298A55A7-E697-43A1-AB06-144507F9C708}.Release|Win32.ActiveCfg = Release|Win32
+		{298A55A7-E697-43A1-AB06-144507F9C708}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
