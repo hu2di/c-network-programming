@@ -5,4 +5,3 @@ Network programming by C (Client, Server, TCP, UDP, CAsyncSocket, Ovelapped, WSA
 - Created by HuyHung Dinh
 - GitHub: https://github.com/hu2di
 - Email: hebitaxy@gmail.com
-- Donate: [**PayPal**](https://www.paypal.me/hungdh)
